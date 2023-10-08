@@ -31,7 +31,7 @@ struct ContentView: View {
                     .fontWeight(.bold)
                     .foregroundColor(Color.gray)
                 
-                Text("IT student at IMAMU")
+                Text("IT student at IMAMU ")
                     .font(.body)
                     .foregroundColor(Color.gray)
                     
